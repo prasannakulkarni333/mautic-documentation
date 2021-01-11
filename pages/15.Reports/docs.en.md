@@ -17,6 +17,13 @@ Highly customizable reports can be generated through Mautic's Report menu.
 
 Choose the data source appropriate to the report you want. Each data source has a different set of available columns, filters and graphs.
 
+Types of Data Sources - 
+
+###Assets
+####Assets
+####Asset Downloads
+###Campaigns
+
 ![The Details tab in the Edit Report window](data-source.png)
 
 ## Configuration
