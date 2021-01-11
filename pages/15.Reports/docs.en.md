@@ -19,10 +19,10 @@ Choose the data source appropriate to the report you want. Each data source has 
 
 Types of Data Sources - 
 
-###Assets
-####Assets
-####Asset Downloads
-###Campaigns
+1. Assets
+	Assets
+	Asset Downloads
+2. Campaigns
 
 ![The Details tab in the Edit Report window](data-source.png)
 
