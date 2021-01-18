@@ -17,39 +17,39 @@ Highly customizable reports can be generated through Mautic's Report menu.
 
 Choose the data source appropriate to the report you want. Each data source has a different set of available columns, filters and graphs.
 
-Types of Data Sources - 
+Types of Data Sources available in reports are as below - 
 
 1. Assets
-	- Assets
-	- Asset Downloads
+	1. Assets
+	2. Asset Downloads
 2. Campaigns
-	- Campaign Events
+	1. Campaign Events
 3. Channels Messages
-	- Message Queue
+	1. Message Queue
 4. Emails
-	- Emails
-	- Emails Sent
+	1. Emails
+	2. Emails Sent
 5. Forms
-	- Forms
-	- Form Submissions
+	1. Forms
+	2. Form Submissions
 6. Contacts
-	Contacts
-	Multi Touch Attributions
-	Contact Point Log
-	Frequency Rules
-	Segment Membership
-	Do Not Contact
-	UTM Codes
+	1. Contacts
+	2. Multi Touch Attributions
+	3. Contact Point Log
+	4. Frequency Rules
+	5. Segment Membership
+	6. Do Not Contact
+	7. UTM Codes
 7. Companies
-	Companies
+	1. Companies
 8. Mobile Notifications
-	Mobile Notifications
-	Mobile Notifications Sent
+	1. Mobile Notifications
+	2. Mobile Notifications Sent
 9. Pages
-	Landing Pages
-	Page hits
+	1. Landing Pages
+	2. Page hits
 10. Videos
-	Video hits
+	1. Video hits
 	
 
 ![The Details tab in the Edit Report window](data-source.png)
