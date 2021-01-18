@@ -23,6 +23,30 @@ Types of Data Sources -
 	- Assets
 	- Asset Downloads
 2. Campaigns
+	- Campaign Events
+3. Channels Messages
+	- Message Queue
+4. Emails
+	- Emails
+	- Emails Sent
+5. Forms
+	- Forms
+	- Form Submissions
+6. Contacts
+	Contacts
+	Multi Touch Attributions
+	Contact Point Log
+	Frequency Rules
+	Segment Membership
+	Do Not Contact
+	UTM Codes
+7. Companies
+	Companies
+8. Mobile Notifications
+	Mobile Notifications
+	Mobile Notifications Sent
+9. 
+	
 
 ![The Details tab in the Edit Report window](data-source.png)
 
