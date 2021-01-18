@@ -45,7 +45,11 @@ Types of Data Sources -
 8. Mobile Notifications
 	Mobile Notifications
 	Mobile Notifications Sent
-9. 
+9. Pages
+	Landing Pages
+	Page hits
+10. Videos
+	Video hits
 	
 
 ![The Details tab in the Edit Report window](data-source.png)
