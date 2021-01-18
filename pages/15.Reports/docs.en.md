@@ -11,9 +11,20 @@ taxonomy:
 
 -----------
 
-Highly customizable reports can be generated through Mautic's Report menu.
+Existing reports can be accesed and highly customizable reports can be generated through Mautic's Report menu.
 
-## Data Sources
+
+You can access existing reports by going to '/s/reports'. To create new report click on 'New' button on the top right of the page.
+
+Below are the tabs you can see on the New Report page - 
+
+1. Details
+2. Data
+3. Schdule
+
+
+
+## 1. Data Sources
 
 Choose the data source appropriate to the report you want. Each data source has a different set of available columns, filters and graphs.
 
