@@ -11,6 +11,12 @@ taxonomy:
 
 -----------
 
+- [Reports Page](#reports)
+- [New Report](#new-report)\
+    - [Details] (#details)
+    - [Data] (#data)
+    - [Schedule] (#schedule)
+    
 Highly customizable reports can be generated through Mautic's Report menu.
 
 ## Data Sources
