@@ -11,6 +11,7 @@ taxonomy:
 
 -----------
 
+<<<<<<< Updated upstream
 Existing reports can be accesed and highly customizable reports can be generated through Mautic's Report menu.
 
 
@@ -73,30 +74,14 @@ In addition you can also group by and select different function operators to cal
 ![The Data tab in the Edit Report window](config.png)
 
 ## Graphs
+=======
+>>>>>>> Stashed changes
 
-Some reports have graphs available. Select the graph desired from the left list - it will move to the right and will be part of the report.
 
-![The Graphs tab in the Edit Report window](graphs.png)
+Highly customizable reports can be generated through Mautic's Report menu.
 
-## Dashboard Widget
+![](C:\Users\prasa\OneDrive\Desktop\reportsMenuPNG.PNG)
 
-Each graph of each report is made available as a widget on the dashboard allowing complete customization of the dashboard.
+ 
 
-![The Add Widget window on the Dashboard](widget.png)
-
-## Schedule
-
-Enable or disable sending reports via email by using the toggle switch.
-
-You can schedule emails to send reports to one or more email addresses. In the To field, enter a comma-separated list of email addresses and set the frequency of sending reports by choosing day, week, or month from the drop-down list.
-
-![The Schedule tab in the Edit Report window](schedule.png)
-
-To be able to send scheduled reports, the following cron command is required:
-
-```
-php /path/to/mautic/app/console mautic:reports:scheduler [--report=ID]
-```
-The `--report=ID` argument allows you to specify a report by ID if required. For more information, see [Cron jobs][cron-jobs].
-
-[cron-jobs]: </setup/cron-jobs#send-scheduled-reports>
+#does mautic come with these reports as default?
