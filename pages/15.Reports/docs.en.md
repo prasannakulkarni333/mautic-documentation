@@ -12,24 +12,28 @@ taxonomy:
 -----------
 
 <<<<<<< Updated upstream
-Existing reports can be accesed and highly customizable reports can be generated through Mautic's Report menu.
+
+You can access existing reports and create new customized reports through Mautic's Report menu.
+
+![](D:\Github repos\Report Documentation Fork\mautic-documentation\reportLanding.PNG)
 
 
-You can access existing reports by going to '/s/reports'. To create new report click on 'New' button on the top right of the page.
 
-Below are the tabs you can see on the New Report page - 
+To create new report click on '+ New' button on the top right of the page.
+
+Below are the tabs available on the New Report page - 
 
 1. Details
 2. Data
-3. Schdule
+3. Schedule
 
 
 
-## 1. Data Sources
+# Details
 
-Choose the data source appropriate to the report you want. Each data source has a different set of available columns, filters and graphs.
+![](D:\Github repos\Report Documentation Fork\mautic-documentation\dataSources.PNG)You can select name for the report and an appropriate optional description.
 
-Types of Data Sources available in reports are as below - 
+ Choose the data source appropriate to the report you want. Each data source has a different set of available columns, filters and graphs. Types of Data Sources available in reports are as below - 
 
 1. Assets
 	1. Assets
@@ -64,11 +68,13 @@ Types of Data Sources available in reports are as below -
 	1. Video hits
 	
 
-![The Details tab in the Edit Report window](data-source.png)
 
-## Configuration
 
-Each report can be customized to include the columns of choice. Filter data based on set criteria and/or set a specific order for the data.
+## Data
+
+Each report can be customized to include the columns of choice. These would depend on the data 
+
+Filter data based on set criteria and/or set a specific order for the data.
 In addition you can also group by and select different function operators to calculate fields. Note that when you select functions operators a totals row will be added to the report. This totals row will not be exported when selecting to export a report.
 
 ![The Data tab in the Edit Report window](config.png)
