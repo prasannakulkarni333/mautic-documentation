@@ -31,7 +31,7 @@ Below are the tabs available on the New Report page -
 
 # Details
 
-![](D:\Github repos\Report Documentation Fork\mautic-documentation\dataSources.PNG)You can select name for the report and an appropriate optional description.
+![](D:\Github repos\Report Documentation Fork\mautic-documentation\dataSources.PNG)You can select a name for your report and an optional description.
 
  Choose the data source appropriate to the report you want. Each data source has a different set of available columns, filters and graphs. Types of Data Sources available in reports are as below - 
 
@@ -79,15 +79,9 @@ In addition you can also group by and select different function operators to cal
 
 ![The Data tab in the Edit Report window](config.png)
 
-## Graphs
-=======
->>>>>>> Stashed changes
+## Schedule
+You can schedule a report to be sent out to emails you specify on a daily, weekly or monthly basis.
 
-
-Highly customizable reports can be generated through Mautic's Report menu.
-
-![](C:\Users\prasa\OneDrive\Desktop\reportsMenuPNG.PNG)
+![](C:\Users\prasa\OneDrive\Desktop\screenshots\new report.PNG)
 
  
-
-#does mautic come with these reports as default?
