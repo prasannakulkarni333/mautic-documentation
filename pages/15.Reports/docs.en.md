@@ -90,4 +90,4 @@ In addition you can also group by and select different function operators to cal
 
 You can schedule a report to be sent out to emails you specify on a daily, weekly or monthly basis.
 
-![](schedule.PNG)
+![](schedule.png)
